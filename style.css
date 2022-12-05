@@ -1,0 +1,135 @@
+ 
+
+body {
+	
+	background: #fdc1ef;
+}
+
+nav {
+	width: 100%;
+	height: 55px;
+	background: #ed52c8;
+	font-size: 30px;
+	color: white;
+	text-indent: 10px;
+	border-bottom: 5px solid #e887f7;
+	font-family: sans-serif;
+	
+
+}
+nav img {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	margin-right: 10px ;
+	margin-top: 2px;
+	
+}
+span {
+	position: relative;
+	top: -12px;
+
+}
+  h1{
+  	width: 50%;
+  	text-align: center;
+  	background: pink;
+  	border-radius: 50px;
+    position: relative;
+    left: 20%;
+    box-shadow: 7px 7px #e887f7;
+    color: white;
+  font-family: sans-serif;
+  }
+ p {
+	background: pink;
+    width: 95%;
+    height: 90px;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 30px;
+    border: solid #e887f7 ;
+    margin: auto;
+    margin-bottom: 10px;
+font-family: sans-serif;
+}
+.imagenes{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 90%;
+	background: #ffdfff;
+
+	background-image: url("colores.jpg");
+}
+.m1{
+	position: relative;
+	margin: auto;
+	top: 5px;
+	box-shadow: 7px 7px #e887f7;
+}
+.m2{
+	position: relative;
+	margin: auto;
+	box-shadow: 7px 7px #e887f7;
+	left: -250px;
+    top: 25px;
+}
+.m3{
+	position: relative;
+	margin: auto;
+	top: 5px;
+	box-shadow: 7px 7px #e887f7;
+    right: -200px;
+    top: -100px;
+}
+.m4{
+	position: relative;
+	margin: auto;
+	top: -95px;
+	box-shadow: 7px 7px #e887f7;
+	left: -200px;
+}
+.m5{
+	position: relative;
+	margin: auto;
+	top: -255px;
+	right: -250px;
+	box-shadow: 7px 7px #e887f7;
+}
+.m6{
+	position: relative;
+	margin: auto;
+	top: 5px;
+	box-shadow: 7px 7px #e887f7;
+	top: -300px;
+	left: -250px;
+}
+.m7{
+	position: relative;
+	margin: auto;
+	top: -350px;
+	right: -200px;
+	box-shadow: 7px 7px #e887f7;
+}
+.m8{
+	position: relative;
+	margin: auto;
+	top: -350px;
+	left: -200px;
+	box-shadow: 7px 7px #e887f7;
+}
+.m9{
+	position: relative;
+	margin: auto;
+	top: -350px;
+	right: -200px;
+	box-shadow: 7px 7px #e887f7;
+}
+div img:hover {
+	transition-duration: 1s;
+	width: 500px;
+	height: 500px;
+}
